@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.44a0e874.css",
+    "main.js": "./static/js/main.2c35d863.js",
+    "static/js/787.be55e6d0.chunk.js": "./static/js/787.be55e6d0.chunk.js",
+    "static/media/bannerContato.png": "./static/media/bannerContato.b407c038057ebc6c6e8c.png",
+    "static/media/pattrol.png": "./static/media/pattrol.949da4747e025d57e5be.png",
+    "static/media/banner3.jpg": "./static/media/banner3.e03f1615a6d075dfaada.jpg",
+    "static/media/consultoriar.png": "./static/media/consultoriar.8ce58f55e3c2b7df6ff9.png",
+    "static/media/FrameWorkLogos.png": "./static/media/FrameWorkLogos.18d75663acaeb39f7f2a.png",
+    "static/media/LogosLinguagens.png": "./static/media/LogosLinguagens.ca584b7c6bb89dd630e2.png",
+    "static/media/eu.jpg": "./static/media/eu.a8660eae609b0c5d80d8.jpg",
+    "static/media/LogoJava.png": "./static/media/LogoJava.e1757771312acb2ebd02.png",
+    "static/media/telefone.png": "./static/media/telefone.72720d63f4a2a6fc84cc.png",
+    "static/media/LogoJavaScript.png": "./static/media/LogoJavaScript.16dd43c1b3455768fa6b.png",
+    "static/media/LogoJavapython.png": "./static/media/LogoJavapython.c635b94b564104d20547.png",
+    "static/media/gmail.png": "./static/media/gmail.d765005ce9d4caa3d69e.png",
+    "index.html": "./index.html",
+    "main.44a0e874.css.map": "./static/css/main.44a0e874.css.map",
+    "main.2c35d863.js.map": "./static/js/main.2c35d863.js.map",
+    "787.be55e6d0.chunk.js.map": "./static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a0e874.css",
+    "static/js/main.2c35d863.js"
+  ]
+}
